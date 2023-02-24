@@ -1,4 +1,30 @@
 .row{
 	height:150px;
 	margin-bottom:10px;
+	background-color: #290000;
+}
+.container{
+	background-color: #ffbabd;
+	border: 5px solid #2cf12c;
+}
+.e1{
+	background-color: #008081;
+}
+.e2{
+	background-color: #d7bfd7
+}
+.e3{
+	background-color: #fe6347;
+}
+.e4{
+	background-color: #3fe0d0;
+}
+.e5{
+	background-color: #ee82ef;
+}
+.e5{
+	background-color: #ee82ef;
+}
+.e6{
+	background-color:#9acd32
 }
